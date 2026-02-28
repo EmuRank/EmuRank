@@ -1,0 +1,19 @@
+name: Bug Report
+description: Something on EmuRank is not working as expected.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem. Include steps to reproduce it and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Screenshots, browser/OS info, or anything else that might be helpful. (Optional)
+    validations:
+      required: false

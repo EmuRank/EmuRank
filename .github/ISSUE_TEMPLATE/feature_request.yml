@@ -1,0 +1,19 @@
+name: Feature Request
+description: Suggest a new feature, platform, emulator, or improvement.
+title: "[Feature] "
+labels: ["feature-request"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature or improvement. Feel free to write as much or as little as you like.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Any mockups, examples, or extra context that might help. (Optional)
+    validations:
+      required: false
