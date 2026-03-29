@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://emurank.com/static/img/logo-512.png" alt="EmuRank logo" width="120" />
-  <h1>EmuRank</h1>
+  <img src="https://emurank.com/static/logo_400x100.png" alt="EmuRank logo" width="400" />
   <p>Community-driven video game emulation compatibility database.</p>
   <a href="https://emurank.com"><strong>emurank.com</strong></a>
 </div>
